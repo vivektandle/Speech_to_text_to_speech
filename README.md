@@ -55,12 +55,14 @@ Run the script to start listening using the following command:
 python Speech_to_text_to_speech.py
 
 Once the program is running:
+
 🔹Speak into the microphone.
 🔹The system will recognize and respond accordingly.
 
 ****************
 
 6. How It Works:-
+   
 🔹Uses SpeechRecognition to capture voice input.
 🔹Converts the spoken words into text using Google Speech Recognition API.
 🔹Checks the recognized text against predefined responses:
