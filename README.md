@@ -13,11 +13,14 @@ This readme section includes:
 
 ****************
 
-1. Project Title:- AI Voice Assistant (Speech Recognition & Response)
+1. Project Title:-
+  
+AI Voice Assistant (Speech Recognition & Response)
 
 ****************
 
 2. Description:-
+
 This is a simple **AI-powered speech recognition and text-to-speech system**.  
 It listens to your voice commands, processes them, and responds with a voice output.  
 Currently, it supports a few predefined commands, but it can be extended for more functionality.  
@@ -57,6 +60,7 @@ python Speech_to_text_to_speech.py
 Once the program is running:
 
 🔹Speak into the microphone.
+
 🔹The system will recognize and respond accordingly.
 
 ****************
