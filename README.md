@@ -81,10 +81,13 @@ Once the program is running:
 
 7. Future Improvements:-
 
-🔹 Support for more conversational topics
-🔹 Integration with AI-based chatbots (e.g., OpenAI, ChatterBot)
-🔹 Multi-language support
-🔹 Voice activation ("Hey Assistant" to wake up)
+🔹 Support for more conversational topics.
+
+🔹 Integration with AI-based chatbots (e.g., OpenAI, ChatterBot).
+
+🔹 Multi-language support.
+
+🔹 Voice activation ("Hey Assistant" to wake up).
 
 ****************
 
