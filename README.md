@@ -64,11 +64,17 @@ Once the program is running:
 6. How It Works:-
    
 🔹Uses SpeechRecognition to capture voice input.
+
 🔹Converts the spoken words into text using Google Speech Recognition API.
-🔹Checks the recognized text against predefined responses:
+
+🔹Checks the recognized text against predefined responses.
+
 🔹If it matches known commands, it provides a relevant response.
+
 🔹If it's unknown, it informs the user and repeats the input.
+
 🔹Converts the response into speech using pyttsx3.
+
 🔹Outputs the response as an audio reply.
 
 ****************
