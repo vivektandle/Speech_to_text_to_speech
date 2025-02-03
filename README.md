@@ -29,6 +29,7 @@ Currently, it supports a few predefined commands, but it can be extended for mor
 🔹Recognizes speech using **Google Speech Recognition**  
 🔹Responds using **Text-to-Speech (TTS)**  
 🔹Supports basic voice commands:
+
    ✔️ "Hello" → Responds with a greeting  
    ✔️ "How are you?" → Replies with a predefined response  
    ✔️ "What time is it?" → Tells the current time  
